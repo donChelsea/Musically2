@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203471287976",
+    "project_id": "musically2-f1a16",
+    "storage_bucket": "musically2-f1a16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203471287976:android:8d72dfb6810be6d96e749d",
+        "android_client_info": {
+          "package_name": "com.example.musically2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDHYUibZkj2t6l219mHtG_mGwFmbFQxnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
